@@ -15,7 +15,7 @@ def scrape_radio_channel_filter(name, date, hour):
     try:
         table = soup.find('table')
         df = pd.read_html(str(table))
-        df[2].to_csv('output/{}.csv'.format(name), mode='a', header=False)
+        df[2].to_csv('data/{}.csv'.format(name), mode='a', header=False)
         return df
     except IndexError:
         pass
