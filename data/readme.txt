@@ -1,0 +1,14 @@
+"../data/20minfr.csv" = 20 Minuten Französisch
+"../data/arg.csv" = Radio Argovia
+"../data/bsk.csv" = Radio Basilisk
+"../data/drs1.csv" = Radio SRF1
+"../data/fm1.csv" = Radio FM1
+"../data/mun.csv" = Radio Munot
+"../data/neo1.csv" = Neo 1
+"../data/nrj.csv" = EnergyBE/ZH/BS
+"../data/r24.csv" = Radio 24
+"../data/rl.csv" = Radio Liechtenstein
+"../data/rro.csv" = Radio Rottu Oberwallis
+"../data/rso.csv" = Radio Südostschweiz
+"../data/sun.csv" = Radio Sunshine
+"../data/zsee.csv" = Radio Zürichsee
